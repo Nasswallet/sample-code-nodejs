@@ -11,11 +11,11 @@ const app = express()
 const port = 3000
 
 const base_url = "https://uatgw.nasswallet.com/payment/transaction";
-const basicToken = 'Basic TUVSQ0hBTlRfQVBQOk1lcmNoYW50QEFkbWluIzEyMw==';
-const username = '7508176801';
-const password = 'zDR9LP#';
+const basicToken = '';
+const username = '';
+const password = '';
 const grantType = 'password';
-const transactionPin = '963578';
+const transactionPin = '';
 let orderId = '263626';
 let amount = '10';
 let languageCode = 'en';
