@@ -1,0 +1,17 @@
+{
+  "name": "checkout-api",
+  "version": "1.0.0",
+  "description": "Payment Gateway Sample Code",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Abdulla Hashim",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
