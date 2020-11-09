@@ -6,6 +6,6 @@ This project is a sample code to demonstrate how to make request to Nasswallet P
 ###### then:
 **npm start**
 
-###### If You have errors regarding to nodemon, make sure to install it on your machine globally:
+###### In case You have errors regarding to nodemon, make sure to install it on your machine globally:
 **npm install -g nodemon**
 
