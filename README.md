@@ -1,5 +1,5 @@
 # sample-code-PHP
-This project is a sample code to demonstrate how to make request to Nasswallet Payment Gateway using React Native
+This project is a sample code to demonstrate how to use Nasswallet Payment Gateway API for test purposes using Node.js
 
 ###### To start the project run the following commands:
 **npm install**
