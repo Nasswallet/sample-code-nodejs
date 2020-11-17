@@ -7,11 +7,14 @@ const path = require('path')
 
 const express = require('express')
 
-const app = express()
+const app = express();
+
+app.use(express.static('public'));
+
 const port = 3000
 
 const base_url = "https://uatgw.nasswallet.com/payment/transaction";
-const basicToken = '';
+const basicToken = 'Basic TUVSQ0hBTlRfQVBQOk1lcmNoYW50QEFkbWluIzEyMw==';
 const username = '';
 const password = '';
 const grantType = 'password';
